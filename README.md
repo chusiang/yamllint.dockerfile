@@ -9,7 +9,8 @@ A Docker image for run the [yamllint][yamllint_github] on Alpine Linux.
 
 ## Supported tags and respective `Dockerfile` links
 
-- `1.15`, `latest` [_(Dockerfile)_](https://github.com/chusiang/yamllint.dockerfile/blob/main/v1.15/Dockerfile)
+- `1.37`, `latest` [_(Dockerfile)_](https://github.com/chusiang/yamllint.dockerfile/blob/main/v1.37/Dockerfile)
+- `1.15`, [_(Dockerfile)_](https://github.com/chusiang/yamllint.dockerfile/blob/main/v1.15/Dockerfile)
 
 ## Build image
 
@@ -61,6 +62,10 @@ A Docker image for run the [yamllint][yamllint_github] on Alpine Linux.
 Enjoy it !
 
 ## History
+
+2025:
+
+- 05/19: Add `1.37` image.
 
 2019:
 
